@@ -1,3 +1,2 @@
-This is a sample file 
-which is created for the user purpose:
-
+This is an extra line added 
+to check whether is see the changes or not
